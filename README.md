@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio del Prepcourse de Henry
+Este es un proyecto es una prueba de como crear un repositorio y clonarlo desde github al escritorio local
